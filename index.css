@@ -15,6 +15,12 @@ h1 {
   color: #ee9406;
 }
 
+h2 {
+  position: absolute;
+  top: 30px;
+  font-size: 35px;
+}
+
 .container {
   text-align: center;
   display: flex;
